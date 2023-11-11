@@ -11,7 +11,7 @@ An arcade-style Ball Battle in which the objective is to knock enemies off of a 
 - Every time the enemies drop to zero, a new wave is spawned. The enemy and powerup count increase with each iteration.
 - Powerups gives the player a temporary advantage. They will spawn in random positions on the island. These last for 7 seconds after pickup.
 - Powerups include; “Super Strength” or “Smash Strength”, both that pushes away enemies!
-
+- The camera evenly rotates around a focal point in the center of the island, provided with a horizontal input from the player. 
 
 ## Instructions on how to play the game
 
